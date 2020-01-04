@@ -1,0 +1,4 @@
+*.log
+/History/*
+*.workspace
+*.xml

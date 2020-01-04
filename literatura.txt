@@ -1,0 +1,5 @@
+https://www.quora.com/How-can-I-get-a-delay-of-1-second-using-timers-in-ATmega8
+https://electrosome.com/interfacing-lcd-atmega32-microcontroller-atmel-studio/
+http://extremeelectronics.co.in/avr-tutorials/avr-timers-an-introduction/
+https://eleccelerator.com/avr-timer-calculator/
+https://circuitdigest.com/microcontroller-projects/lcd-interfacing-with-atmega32-avr
